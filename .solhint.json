@@ -10,6 +10,12 @@
       {
         "ignoreConstructors": true
       }
+    ],
+    "reason-string": [
+      "warn",
+      {
+        "maxLength": 50
+      }
     ]
   }
 }
